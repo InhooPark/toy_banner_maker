@@ -46,6 +46,7 @@ function App() {
                 justifyContent: `${alignX}`,
                 alignItems: `${alignY}`,
                 border: `${borderW}px solid ${borderColor}`,
+                boxSizing: "border-box",
                 aspectRatio: `${hRatio} / 1`,
                 backgroundColor: `${bgColor}`,
                 backgroundImage: `url("${bgImage}")`,
