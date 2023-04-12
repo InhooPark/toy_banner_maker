@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/toy_banner_maker/static/css/main.31b922fa.css",
-    "main.js": "/toy_banner_maker/static/js/main.2d49481c.js",
+    "main.js": "/toy_banner_maker/static/js/main.4f3f7549.js",
     "static/js/787.3f1005ff.chunk.js": "/toy_banner_maker/static/js/787.3f1005ff.chunk.js",
     "index.html": "/toy_banner_maker/index.html",
     "main.31b922fa.css.map": "/toy_banner_maker/static/css/main.31b922fa.css.map",
-    "main.2d49481c.js.map": "/toy_banner_maker/static/js/main.2d49481c.js.map",
+    "main.4f3f7549.js.map": "/toy_banner_maker/static/js/main.4f3f7549.js.map",
     "787.3f1005ff.chunk.js.map": "/toy_banner_maker/static/js/787.3f1005ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31b922fa.css",
-    "static/js/main.2d49481c.js"
+    "static/js/main.4f3f7549.js"
   ]
 }
